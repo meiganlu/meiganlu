@@ -1,7 +1,7 @@
-# ✨ Hey there! ✨
+# ✨ Hi there! I'm Meigan ✨
 
 ## 🎀 About Me
-Hi, I'm Meigan, a senior at UC Davis pursuing my Bachelor’s in Computer Science with a strong passion for artificial intelligence and full-stack development.
+I'm a senior at UC Davis pursuing my Bachelor’s in Computer Science with a strong passion for artificial intelligence and full-stack development. I aspire to create—solving problems not only through code but by shaping how we live, work, and interact with technology—and am always on the lookout to grow and push the boundaries of what I know.
 
 ## 💫 Skills
 
