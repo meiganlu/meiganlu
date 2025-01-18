@@ -12,7 +12,7 @@ Here’s a little list of my skills and what I love working with:
 
 ## 🚀 What I’m Currently Up To
 
-- 📚 **Learning:** React, Next.js, Node.js, PostgreSQL, Typescript, Prisma, and Apollo GraphQL
+- 📚 **Learning:** React, Next.js, Node.js, PostgreSQL, and Typescript
 - 💡 **Working On:** A study spot finder to help college students find the best local study spots around campus. It uses data from reviews, noise levels, and other preferences to provide filtered recommendations
 
 ## 💌 Contact
