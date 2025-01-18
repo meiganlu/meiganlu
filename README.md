@@ -15,11 +15,6 @@ Here’s a little list of my skills and what I love working with:
 - 📚 **Learning:** React, Next.js, Node.js, PostgreSQL, Typescript, Prisma, and Apollo GraphQL
 - 💡 **Working On:** A study spot finder to help college students find the best local study spots around campus. It uses data from reviews, noise levels, and other preferences to provide filtered recommendations
 
-## 🎨 Fun Facts
-- 💻 I love coding in Python and Java
-- 🔥 I can solve a Rubik's Cube
-- 🎨 When I’m not coding, I enjoy wheelthrowing and cooking with friends!
-
 ## 💌 Contact
 
 I’d love to connect! 💖 Here’s how you can get in touch:
