@@ -12,6 +12,6 @@ I'm a senior at UC Davis pursuing my Bachelor’s in Computer Science with a str
 
 I’d love to connect! 💖 Here’s how you can get in touch:
 
-- 🌱 **Personal Website:** https://meiganlu.github.io/
+- 🌱 **Personal Website:** https://meiganlu.com
 - 🧠 **LinkedIn:** https://www.linkedin.com/in/meigan-lu/
 - ⚡ **Email:** meiganlu@gmail.com
