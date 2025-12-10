@@ -1,6 +1,5 @@
 # Hi! I'm Meigan
 
-## About Me
 I earned my Bachelor’s in Computer Science at UC Davis and have a strong passion for artificial intelligence and full-stack development. I aspire to create—solving problems not only through code but by shaping how we live, work, and interact with technology—and am always on the lookout to grow and push the boundaries of what I know.
 
 ## What I’m Currently Up To
