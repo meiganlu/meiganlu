@@ -1,17 +1,17 @@
-# ✨ Hi there! I'm Meigan ✨
+# Hi! I'm Meigan
 
-## 🎀 About Me
+## About Me
 I earned my Bachelor’s in Computer Science at UC Davis and have a strong passion for artificial intelligence and full-stack development. I aspire to create—solving problems not only through code but by shaping how we live, work, and interact with technology—and am always on the lookout to grow and push the boundaries of what I know.
 
-## 🚀 What I’m Currently Up To
+## What I’m Currently Up To
 
-- 📚 **Learning:** Rust and more Javascript
-- 💡 **Working On:** Will disclose soon...
+- **Learning:** Rust and more Javascript
+- **Working On:** Will disclose soon...
 
-## 💌 Contact
+## Contact
 
-I’d love to connect! 💖 Here’s how you can get in touch:
+I’d love to connect! Here’s how you can get in touch:
 
-- 🌱 **Personal Website:** [meiganlu.com](https://meiganlu.com)
-- 🧠 **LinkedIn:** [linkedin.com/in/meigan-lu](https://www.linkedin.com/in/meigan-lu/)
-- ⚡ **Email:** meiganlu@gmail.com
+- **Personal Website:** [meiganlu.com](https://meiganlu.com)
+- **LinkedIn:** [linkedin.com/in/meigan-lu](https://www.linkedin.com/in/meigan-lu/)
+- **Email:** meiganlu@gmail.com
