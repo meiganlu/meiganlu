@@ -6,6 +6,6 @@ I earned my Bachelor’s in Computer Science at UC Davis and have a strong passi
 
 I’d love to connect! Here’s how you can get in touch:
 
-- **Personal Website:** [meiganlu.com](https://meiganlu.com)
+- **Personal Website:** [meiganlu.github.io](https://meiganlu.github.io/)
 - **LinkedIn:** [linkedin.com/in/meigan-lu](https://www.linkedin.com/in/meigan-lu/)
 - **Email:** meiganlu@gmail.com
